@@ -3,7 +3,7 @@
 文件来源于https://github.com/erfanoabdi
 https://github.com/xpirt
 
-## 用法
+## imgpatchtools用法
 
 ```
 ./BlockImageUpdate <system.img> <system.transfer.list> <system.new.dat> <system.patch.dat>
