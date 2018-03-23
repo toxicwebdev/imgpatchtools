@@ -1,5 +1,9 @@
 文件来源于https://github.com/erfanoabdi
 https://github.com/xpirt
+### 条件
+
+需要python>=2.7
+ubuntu
 
 ## imgpatchtools用法
 
@@ -27,9 +31,6 @@ https://github.com/xpirt
 
 ## 将system.new.dat, system.patch.dat, system.transfer.listt转换成system.img
 
-### 条件
-
-需要python>=2.7
 
 ### 用法
 
