@@ -1,5 +1,3 @@
-# imgpatchtools
-
 文件来源于https://github.com/erfanoabdi
 https://github.com/xpirt
 
@@ -25,6 +23,7 @@ https://github.com/xpirt
 - `<init_sha1>` = file SHA1 sum
 - `<patch>` = patch file (.p) from OTA zip
 
+# 其他
 
 ## 将system.new.dat, system.patch.dat, system.transfer.listt转换成system.img
 
