@@ -2,8 +2,8 @@
 https://github.com/xpirt
 ### 条件
 
-需要python>=2.7
-ubuntu
+-需要python>=2.7
+-ubuntu
 
 ## imgpatchtools用法
 
